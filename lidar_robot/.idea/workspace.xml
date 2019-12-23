@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27cee22b-6d41-44cd-9605-78eed57465b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Td2L8yXCXzKMZPwmIbfmrHWpOe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.micropython.configurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="lidar_robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lidar_robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27cee22b-6d41-44cd-9605-78eed57465b6" name="Default Changelist" comment="" />
+      <created>1573775592061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573775592061</updated>
+      <workItem from="1573775593199" duration="1342000" />
+      <workItem from="1573788606300" duration="33000" />
+      <workItem from="1574052025811" duration="1853000" />
+      <workItem from="1574125292582" duration="31000" />
+      <workItem from="1577069157141" duration="6929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577069177218">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577069177218" />
+    <state x="2606" y="161" key="#main" timestamp="1577069181123">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2606" y="161" key="#main/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577069181123" />
+    <state x="798" y="437" width="347" height="166" key="Github.CreateGistDialog" timestamp="1577078548530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="798" y="437" width="347" height="166" key="Github.CreateGistDialog/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@0.0.1920.1040" timestamp="1577078548530" />
+    <state x="837" y="418" width="261" height="204" key="Github.ShareDialog" timestamp="1577078682990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="837" y="418" width="261" height="204" key="Github.ShareDialog/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@0.0.1920.1040" timestamp="1577078682990" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1577078687194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@0.0.1920.1040" timestamp="1577078687194" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577070750187" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1577078687194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@0.0.1920.1040" timestamp="1577078687194" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577070750182" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1577078687193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@0.0.1920.1040" timestamp="1577078687193" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577070750179" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1577078687194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@0.0.1920.1040" timestamp="1577078687194" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577070750185" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lidar_robot$main.coverage" NAME="main Coverage Results" MODIFIED="1577078521955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
