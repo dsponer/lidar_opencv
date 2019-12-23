@@ -14,17 +14,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Td2L8yXCXzKMZPwmIbfmrHWpOe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.micropython.configurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -104,6 +110,7 @@
       <workItem from="1574052025811" duration="1853000" />
       <workItem from="1574125292582" duration="31000" />
       <workItem from="1577069157141" duration="6929000" />
+      <workItem from="1577083246347" duration="4691000" />
     </task>
     <servers />
   </component>
@@ -127,28 +134,36 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="837" y="418" width="261" height="204" key="Github.ShareDialog/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@0.0.1920.1040" timestamp="1577078682990" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1577078687194">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom" timestamp="1577088480740">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1577088480740" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@0.0.1920.1040" timestamp="1577078687194" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577070750187" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1577078687194">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1638" height="363" key="GridCell.Tab.0.center" timestamp="1577088480737">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1577088480737" />
     <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@0.0.1920.1040" timestamp="1577078687194" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577070750182" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1577078687193">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1638" height="363" key="GridCell.Tab.0.left" timestamp="1577088480736">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1577088480736" />
     <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@0.0.1920.1040" timestamp="1577078687193" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577070750179" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1577078687194">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1638" height="363" key="GridCell.Tab.0.right" timestamp="1577088480738">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1638" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1577088480738" />
     <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@0.0.1920.1040" timestamp="1577078687194" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.64.1280.984/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577070750185" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1577084071614">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1577084071614" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/lidar_robot$main.coverage" NAME="main Coverage Results" MODIFIED="1577078521955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lidar_robot$main.coverage" NAME="main Coverage Results" MODIFIED="1577088204488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
