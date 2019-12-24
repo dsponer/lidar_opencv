@@ -15,8 +15,8 @@ import math
 angles = np.zeros(360)
 distances = np.zeros(360)
 
-start_point = (200, 200)
-image = np.zeros((400, 400, 3), np.uint8)
+start_point = (1000, 1000)
+image = np.zeros((2000, 2000, 3), np.uint8)
 
 # while True:
 
@@ -25,24 +25,24 @@ image = np.zeros((400, 400, 3), np.uint8)
 #     distances[int(angle[2])] = angle[3]
 #     if i > 2000:
 #         break
-
+angles = np.array([i for i in range(360)])
 distances = np.loadtxt('lidar.txt')
 
 for i in range(distances.size):
-    dist = distances[i] / 1000 if distances[i] != 0 else 1
+    dist = distances[i] if distances[i] != 0 else 1
 
-    end_x = math.asin(math.radians(angles[0])) / (dist)
-    end_y = math.acos(math.radians(angles[0])) / (dist)
+    end_x = math.sin(math.radians(angles[i])) * (dist)
+    end_y = math.cos(math.radians(angles[i])) * (dist)
 
     end_point = [int(end_x), int(end_y)]
-    print(end_point)
+    print(angles[i], end_point)
     image = cv2.line(image, start_point, tuple(end_point), (0, 255, 0), 5)
     cv2.imshow('test window', image)
 
 # if cv2.waitKey(1) & 0xFF == ord('q'):
 #     break
 
-cv2.destroyAllWindows()
+
 
 #
 # lidar.stop()
@@ -51,3 +51,4 @@ cv2.destroyAllWindows()
 
 cv2.imshow('test window', image)
 cv2.waitKey()
+cv2.destroyAllWindows()
