@@ -3,29 +3,30 @@ import numpy as np
 import cv2
 import math
 
-lidar = rplidar.RPLidar('/dev/cu.SLAB_USBtoUART')
+# lidar = rplidar.RPLidar('/dev/cu.SLAB_USBtoUART')
 
-info = lidar.get_info()
-print(info)
-lidar.clear_input()
+# info = lidar.get_info()
+# print(info)
+# lidar.clear_input()
 
-health = lidar.get_health()
-print(health)
+# health = lidar.get_health()
+# print(health)
 
-angles = np.zeros(361)
-distances = np.zeros(361)
+angles = np.zeros(360)
+distances = np.zeros(360)
 
 start_point = (200, 200)
-
 image = np.zeros((400, 400, 3), np.uint8)
 
 # while True:
 
-for i, angle in enumerate(lidar.iter_measurments()):
-    angles[int(angle[2])] = angle[2]
-    distances[int(angle[2])] = angle[3]
-    if i > 2000:
-        break
+# for i, angle in enumerate(lidar.iter_measurments()):
+#     angles[int(angle[2])] = angle[2]
+#     distances[int(angle[2])] = angle[3]
+#     if i > 2000:
+#         break
+
+distances = np.loadtxt('lidar.txt')
 
 for i in range(distances.size):
     dist = distances[i] / 1000 if distances[i] != 0 else 1
@@ -43,9 +44,10 @@ for i in range(distances.size):
 
 cv2.destroyAllWindows()
 
-lidar.stop()
-lidar.stop_motor()
-lidar.disconnect()
+#
+# lidar.stop()
+# lidar.stop_motor()
+# lidar.disconnect()
 
 cv2.imshow('test window', image)
 cv2.waitKey()
